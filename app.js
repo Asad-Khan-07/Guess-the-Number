@@ -23,7 +23,7 @@ BTn.addEventListener("click", () => {
 
 Btn.addEventListener("click", () => {
   if (+tak.value === num) {
-    rev.innerHTML = `Conguratulation! your number is 	&#128515; ${num} `;
+    rev.innerHTML = ` your number is 	&#128515; ${num} `;
     rev.classList.add("scale");
     Etm.innerHTML = `${Atm} Attempts`;
   } else {

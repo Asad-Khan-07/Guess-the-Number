@@ -4,10 +4,9 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  /* align-items: center; */
-  height: 100vh;
+  align-items: center;
+  height:99.5vh;
   background-color: #055c63;
-  padding: 30px;
   overflow: hidden;
 }
 
