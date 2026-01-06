@@ -6,7 +6,7 @@ let Atm = 10;
 let Etm = document.getElementById("atm");
 let BTn = document.getElementById("Btn");
 
-console.log(num);
+
 Etm.innerHTML = `${Atm} Attempts`;
 
 function rep() {
